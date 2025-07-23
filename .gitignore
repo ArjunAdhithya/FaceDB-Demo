@@ -1,0 +1,6 @@
+# Ignore virtual environment and temp files
+face_env/
+*.pyc
+__pycache__/
+query_temp.jpg
+
